@@ -1,5 +1,5 @@
 mountpoints:
-    /: https://adobe.sharepoint.com/:f:/r/sites/eds-commerce-store/Shared%20Documents/eds-commerce-storefront?csf=1&web=1&e=MpR7Xz
+    /: https://adobe.sharepoint.com/:f:/r/sites/eds-commerce-store/Shared%20Documents/eds-commerce-storefront?csf=1&web=1&e=CMMdrC
     
 folders:
   /products/: /products/default

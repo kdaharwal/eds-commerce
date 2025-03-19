@@ -3,7 +3,7 @@
     "plugins": [
         {
             "id": "cif",
-            "title": "Commerce",
+            "title": "Commerce-Test",
             "environments": [
                 "edit"
             ],
@@ -13,7 +13,7 @@
         },
         {
             "id": "library",
-            "title": "Sidekick Library",
+            "title": "Block Collection",
             "environments": ["edit"],
             "url": "/tools/sidekick/library.html",
             "includePaths": ["**.docx**"]
